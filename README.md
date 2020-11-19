@@ -1,2 +1,2 @@
 # M
-Diverse M-Code
+Diverser M-Code
